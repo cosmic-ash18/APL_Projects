@@ -1,10 +1,5 @@
 # EE2703 Assignment 4 & 5
 
-**Name:** Aniruddh K  
-**Roll Number:** EE23B122
-
----
-
 ## Assignment 4: Keyboard Usage Heatmap and Distance Calculation
 
 ### Introduction
